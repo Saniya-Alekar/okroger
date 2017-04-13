@@ -1,0 +1,542 @@
+all , 4 
+
+ron , 1 
+
+violence , 1 
+
+german , 1 
+
+child , 1 
+
+four , 2 
+
+resorts , 1 
+
+including , 3 
+
+co , 1 
+
+its , 3 
+
+one , 1 
+
+depicts , 1 
+
+scholastic , 1 
+
+readers , 1 
+
+spin , 1 
+
+bloomsbury , 1 
+
+muggles , 1 
+
+had , 1 
+
+young , 2 
+
+wizardry , 1 
+
+languages , 2 
+
+to , 4 
+
+theme , 1 
+
+wizards , 1 
+
+exhibition , 1 
+
+overthrow , 1 
+
+lord , 1 
+
+travelling , 1 
+
+has , 4 
+
+kingdom , 1 
+
+brown , 1 
+
+non , 1 
+
+his , 1 
+
+around , 1 
+
+means , 1 
+
+horror , 1 
+
+continues , 1 
+
+progressed , 1 
+
+school , 2 
+
+dark , 2 
+
+records , 1 
+
+cultural , 1 
+
+novel , 1 
+
+fastest , 1 
+
+they , 1 
+
+press , 1 
+
+world , 3 
+
+now , 1 
+
+developments , 1 
+
+mystery , 1 
+
+themes , 2 
+
+term , 1 
+
+several , 1 
+
+magic , 1 
+
+name , 1 
+
+success , 2 
+
+corruption , 1 
+
+french , 1 
+
+audience , 1 
+
+universal , 1 
+
+harry , 10 
+
+translated , 2 
+
+found , 1 
+
+works , 1 
+
+elements , 1 
+
+cornerstones , 1 
+
+making , 2 
+
+set , 1 
+
+often , 2 
+
+reference , 1 
+
+witchcraft , 1 
+
+series , 12 
+
+adventure , 1 
+
+eleven , 1 
+
+immortal , 1 
+
+collectively , 1 
+
+second , 1 
+
+arc , 1 
+
+include , 1 
+
+are , 2 
+
+may , 1 
+
+explores , 1 
+
+estimated , 1 
+
+best , 1 
+
+concern , 1 
+
+recently , 1 
+
+opened , 1 
+
+chicago , 1 
+
+pictures , 1 
+
+highest , 2 
+
+since , 1 
+
+philosopher , 1 
+
+attracted , 1 
+
+written , 2 
+
+critical , 1 
+
+new , 1 
+
+numerous , 2 
+
+franchises , 1 
+
+body , 1 
+
+publishers , 1 
+
+meanings , 1 
+
+august , 1 
+
+sold , 1 
+
+million , 2 
+
+commercial , 1 
+
+little , 1 
+
+governing , 1 
+
+hours , 1 
+
+release , 2 
+
+many , 3 
+
+hogwarts , 1 
+
+them , 1 
+
+struggle , 1 
+
+become , 2 
+
+franchise , 2 
+
+based , 1 
+
+november , 1 
+
+by , 5 
+
+on , 4 
+
+stone , 1 
+
+last , 1 
+
+increasingly , 1 
+
+ministry , 1 
+
+of , 22 
+
+graphic , 1 
+
+according , 1 
+
+against , 1 
+
+drama , 1 
+
+tour , 1 
+
+prejudice , 1 
+
+premiering , 1 
+
+published , 2 
+
+expand , 1 
+
+studio , 1 
+
+history , 2 
+
+adapted , 1 
+
+book , 2 
+
+first , 1 
+
+criticism , 1 
+
+among , 1 
+
+major , 2 
+
+wizard , 3 
+
+tone , 1 
+
+attractions , 1 
+
+into , 3 
+
+within , 1 
+
+potter , 9 
+
+seven , 1 
+
+three , 1 
+
+cursed , 1 
+
+fantasy , 2 
+
+references , 1 
+
+platform , 1 
+
+spanish , 1 
+
+themed , 1 
+
+consecutively , 1 
+
+total , 1 
+
+story , 3 
+
+immense , 1 
+
+twenty , 1 
+
+people , 1 
+
+copies , 2 
+
+been , 3 
+
+seventy , 1 
+
+whom , 1 
+
+ensured , 1 
+
+time , 2 
+
+films , 2 
+
+was , 3 
+
+final , 1 
+
+madness , 1 
+
+more , 1 
+
+life , 1 
+
+selling , 3 
+
+that , 4 
+
+about , 1 
+
+it , 1 
+
+part , 1 
+
+adult , 2 
+
+granger , 1 
+
+known , 2 
+
+gruesome , 1 
+
+july , 1 
+
+an , 1 
+
+with , 3 
+
+than , 1 
+
+pentalogy , 1 
+
+wizarding , 1 
+
+wide , 1 
+
+main , 2 
+
+rowling , 4 
+
+originally , 1 
+
+voldemort , 1 
+
+london , 2 
+
+books , 6 
+
+hermione , 1 
+
+were , 1 
+
+subjugate , 1 
+
+other , 2 
+
+at , 4 
+
+and , 22 
+
+irish , 1 
+
+acclaim , 1 
+
+derivative , 1 
+
+palace , 1 
+
+is , 2 
+
+modern , 1 
+
+share , 1 
+
+few , 1 
+
+bros , 1 
+
+roughly , 1 
+
+states , 2 
+
+death , 1 
+
+as , 11 
+
+british , 2 
+
+have , 5 
+
+in , 15 
+
+film , 2 
+
+swedish , 1 
+
+information , 1 
+
+genres , 1 
+
+united , 3 
+
+built , 1 
+
+author , 1 
+
+media , 1 
+
+weasley , 1 
+
+parks , 2 
+
+romance , 1 
+
+also , 1 
+
+intends , 1 
+
+concerns , 1 
+
+amusement , 1 
+
+which , 3 
+
+digital , 1 
+
+warner , 1 
+
+worldwide , 2 
+
+play , 1 
+
+literature , 1 
+
+multiple , 1 
+
+theatre , 1 
+
+novels , 2 
+
+students , 1 
+
+grossing , 2 
+
+who , 1 
+
+june , 1 
+
+includes , 2 
+
+most , 1 
+
+eight , 1 
+
+two , 1 
+
+coming , 1 
+
+friends , 1 
+
+eighth , 1 
+
+thriller , 1 
+
+billion , 1 
+
+value , 1 
+
+younger , 1 
+
+off , 1 
+
+chronicle , 1 
+
+considered , 1 
+
+age , 1 
+
+popularity , 1 
+
+well , 2 
+
+magical , 1 
+
+premiered , 2 
+
+script , 1 
+
+instalment , 1 
+
+english , 1 
+
+the , 42 
+
+insight , 1 
+
+original , 1 
+
+updates , 1 
+
